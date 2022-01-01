@@ -1,2 +1,1 @@
-
-this is a new file added to intellij
+this is a new file added to Netbeans
