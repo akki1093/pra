@@ -1,4 +1,4 @@
 
 this is a new file added to eclipse, this is a new change added!!!!!!
 
-I'm trying to create conflicts so I can learn how to resolve conflicts
+I'm trying to create conflicts so I can learn how to res conflicts
